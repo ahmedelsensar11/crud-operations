@@ -1,0 +1,23 @@
+body
+{
+    background-color: white
+}
+
+h2
+{
+color: firebrick
+}
+
+
+.row .product
+{
+    border: solid 1px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    transition: all 0.35s
+}
+
+.row .product:hover
+{
+    background-color:black
+}
+
